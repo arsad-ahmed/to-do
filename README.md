@@ -1,6 +1,13 @@
 # To Do
 ToDo App demonstrates modern Android development with Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel), and Design based on MVVM architecture.
 
+# Features
+* Add and manage tasks
+* Set task due dates 
+* Beautiful Material design and interface
+* Dark Mode
+* Data stored offline all locally on your device
+
 # Screenshot
 ![Screenshot_20230725_231842](https://github.com/arsad-ahmed/to-do/assets/125079966/01186220-019b-462b-8166-b9acc5dad1b0)
 ![Screenshot_20230725_231858](https://github.com/arsad-ahmed/to-do/assets/125079966/f943a09f-141b-4559-a9e3-3f3ac70e23df)
