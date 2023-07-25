@@ -1,5 +1,5 @@
 # To Do
-ToDoList App demonstrates modern Android development with Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel), and Design based on MVVM architecture.
+ToDo App demonstrates modern Android development with Hilt, Coroutines, LiveData, Jetpack (Room, ViewModel), and Design based on MVVM architecture.
 
 # Screenshot
 ![Screenshot_20230725_231842](https://github.com/arsad-ahmed/to-do/assets/125079966/01186220-019b-462b-8166-b9acc5dad1b0)
